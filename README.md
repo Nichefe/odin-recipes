@@ -1,1 +1,1 @@
-# odin-recipes
+The project is a finalization of the skills learned with the Odin project in the section of html coding,having done this project I cans afely say that it proves I can give solutions to a simple problem like this one by using tools repetively and being creative with the combination of some.# odin-recipes
